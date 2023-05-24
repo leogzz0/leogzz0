@@ -15,7 +15,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=leogzz0&show_icons=true&theme=transparent" />
 
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leogzz0&layout=donut" />
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leogzz0&layout=donut" />
 
 #
 
