@@ -12,12 +12,9 @@
 - And Many More...
 
 ## 📊 Stats
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=leogzz0&show_icons=true&theme=transparent" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leogzz0&layout=donut" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=leogzz0&show_icons=true&theme=transparent" />
-
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leogzz0&layout=donut" />
-
-<br/>
 
 ## 🧰 Languages and Tools
 
