@@ -36,3 +36,9 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+## Contact
+- 💬 Ask me about anything and everything!
+- 📫 How to reach me: [mail me](mailto:leogzz0@hotmail.com)
+- 💬 Ping Me about #DataScience, #MachineLearning, #SoftwareEngineering, #entrepreneurship and anything you like
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leogzz0/)
