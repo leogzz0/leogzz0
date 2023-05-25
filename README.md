@@ -8,7 +8,7 @@
 - I enjoy collaborating on interesting projects that challenge my skills
 - I'm Interested on Full Stack projects, Data Science, Machine Learning and Deep Learning.
 - I am pursuing a bachelor's degree in Computer Science at [Tec de Monterrey](https://tec.mx/en)
-- I like to play music, DJ and play sports on my free time
+- I like to play music and play sports on my free time
 - And Many More...
 
 ## 📊 Stats
@@ -36,7 +36,7 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-## Contact
+##📞 Contact
 - 💬 Ask me about anything and everything!
 - 📫 How to reach me: [mail me](mailto:leogzz0@hotmail.com)
 - 💬 Ping Me about #DataScience, #MachineLearning, #SoftwareEngineering, #entrepreneurship and anything you like
