@@ -11,11 +11,6 @@
 - I like to play music and play sports on my free time
 - And Many More...
 
-## 📊 Stats
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=leogzz0&show_icons=true&theme=transparent" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leogzz0&layout=donut" />
-
-
 ## 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -35,6 +30,10 @@
 <img align="left" alt="Next" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+
+## 📊 Stats
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=leogzz0&show_icons=true&theme=transparent" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leogzz0&layout=donut" />
 
 ## 📞 Contact
 - 💬 Ask me about anything and everything!
