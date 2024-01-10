@@ -1,7 +1,7 @@
 <a href="hi.webp"><img src="hi.webp" align="right" height="300" width="300" /></a>
 <h1 align="center">Hello world! I'm Leo!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h1>
 
-<h3 align="center">A passionate full stack developer and data scientist working for the world.</h3>
+<h3 align="center">A passionate software engineer and full stack developer working for the world.</h3>
 
 ## About
 
