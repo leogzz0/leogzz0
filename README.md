@@ -1,15 +1,13 @@
 <a href="hi.webp"><img src="hi.webp" align="right" height="300" width="300" /></a>
 <h1 align="center">Hello world! I'm Leo!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h1>
 
-<h3 align="center">A passionate software engineer and full stack developer working for the world.</h3>
+<h3 align="center">Software Engineer.</h3>
 
 ## About
 
 - I enjoy collaborating on interesting projects that challenge my skills
-- I'm Interested on Full Stack projects, Data Science, Machine Learning and Deep Learning.
 - I am pursuing a bachelor's degree in Computer Science at [Tec de Monterrey](https://tec.mx/en)
 - I like to play music and play sports on my free time
-- And Many More...
 
 ## 🧰 Languages and Tools
 
@@ -23,7 +21,6 @@
 <img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
